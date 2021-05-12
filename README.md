@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on go and anything js
 - 📫 How to reach me --> comment on any of the repos
 
+
+![](https://komarev.com/ghpvc/?username=chaithanyaMarripati)
+
 <!---
 chaithanyaMarripati/chaithanyaMarripati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
