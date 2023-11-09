@@ -1,8 +1,6 @@
-- 👋 Hi, I’m krishna
-- 👀 I’m interested in go,node and js
-- 🌱 I’m currently learning go
-- 💞️ I’m looking to collaborate on go and anything js
-- 📫 How to reach me --> comment on any of the repos
+- 👋 Hi, I’m krishna Chaithanya, Grad student at North Carolina State University.
+- 👀 I’m currently looking for summer internships in 2024
+- 📫 How to reach me --> krishnac.ou@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=chaithanyaMarripati)
